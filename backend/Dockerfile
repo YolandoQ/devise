@@ -1,6 +1,6 @@
 FROM ruby:3.0.2
 
-WORKDIR /backend
+WORKDIR /rails
 
 COPY Gemfile Gemfile.lock ./
 
