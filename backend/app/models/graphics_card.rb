@@ -1,0 +1,2 @@
+class GraphicsCard < ApplicationRecord
+end

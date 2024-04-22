@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  processor: one
+  motherboard: one
+  memory: one
+  graphics_card: one
+
+two:
+  processor: two
+  motherboard: two
+  memory: two
+  graphics_card: two
